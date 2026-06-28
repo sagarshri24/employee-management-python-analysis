@@ -1,0 +1,1 @@
+obj = Employeemanager("employee_1000.csv")
